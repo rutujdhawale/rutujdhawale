@@ -1,10 +1,10 @@
 <p align="cengter">
-  <img src="https://raw.githubusercontent.com/killjoycircuit/killjoycircuit/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/killjoycircuit/rutujdhawale/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
 <!-- 
-- My name is Rutuj Dhawale.
-- I am a fourth year engineering student at [VJTI Mumbai](https://vjti.ac.in/), India.
+- My name is Rutuj.
+- I am a recent Electronics and Telecommunication grad from [VJTI Mumbai](https://vjti.ac.in/), India.
  -->
 
 ## Tech stack
