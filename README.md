@@ -11,7 +11,6 @@
 
 [![CPP, Python, Express, Git, Github, Mongodb, Markdown ,Nodejs ,JavaScript,React](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,markdown,nodejs,js,react,&perline=10)](https://skillicons.dev)
 
-###
 
 <!-- <img align="left" src="https://komarev.com/ghpvc/?username=killjoycircuit&color=blue"/> -->
 
