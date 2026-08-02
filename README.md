@@ -1,4 +1,4 @@
-<p align="cengter">
+<p align="center">
   <img src="https://raw.githubusercontent.com/rutujdhawale/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
