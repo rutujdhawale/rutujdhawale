@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/rutujdhawale/rutujdhawale/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
 
+
 <!-- 
 - My name is Rutuj.
 - I am a recent Electronics and Telecommunication grad from [VJTI Mumbai](https://vjti.ac.in/), India.
