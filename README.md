@@ -5,7 +5,7 @@
 
 <!-- Koi -->
 
-![Git Profile Koi](GENERATED_SVG_PATH)
+![Git Profile Koi](koi/koi.gif)
 
 
 <!-- 
