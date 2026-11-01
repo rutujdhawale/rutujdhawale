@@ -5,7 +5,10 @@
 
 <!-- Koi -->
 
-![Git Profile Koi](koi/koi.gif)
+<!-- Koi -->
+<p align="center">
+  <img src="./koi/koi.gif" alt="Git Profile Koi" width="256">
+</p>
 
 
 <!-- 
