@@ -4,20 +4,6 @@
 </p>
 -->
 
-<!-- Koi -->
-
-<img src="koi/koi.gif" width="310" alt="My koi">
-
-
-<!-- 
-- My name is Rutuj.
-- I am a recent Electronics and Telecommunication grad from [VJTI Mumbai](https://vjti.ac.in/), India.
-
-
-## Tech stack
-
-[![CPP, Python, Express, Git, Github, Mongodb, Markdown ,Nodejs ,JavaScript,React](https://skillicons.dev/icons?i=cpp,py,express,git,github,mongodb,markdown,nodejs,js,react,&perline=10)](https://skillicons.dev)
-
-
-<!-- <img align="left" src="https://komarev.com/ghpvc/?username=killjoycircuit&color=blue"/> -->
-
+<p align="center">
+  <img src="./koi/koi.gif" width="400" alt="Git Profile Koi">
+</p>
